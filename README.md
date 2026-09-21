@@ -1,31 +1,30 @@
-Campus Lost & Found Portal
-A beginner-friendly web application built using PHP, MySQL, HTML, CSS, and JavaScript for students to report and find lost items on campus.
+# Campus Lost & Found Portal
 
-Features
+A beginner-friendly web application built using **PHP, MySQL, HTML, CSS, and JavaScript** that allows students to report and find lost items on campus.
 
-Report Lost/Found items
-MySQL database using MySQL Workbench
-Search items
-Admin Dashboard
-Mark items as Recovered
-Delete reports
+## Features
 
+* Report Lost/Found items
+* MySQL database using MySQL Workbench
+* Search items
+* Admin Dashboard
+* Mark items as Recovered
+* Delete reports
 
-Technologies
+## Technologies Used
 
-PHP
-MySQL
-HTML
-CSS
-JavaScript
-XAMPP
+* PHP
+* MySQL
+* HTML
+* CSS
+* JavaScript
+* XAMPP
 
+## Admin Login
 
-Admin Login
-Username: admin
-Password: admin123
+* **Username:** `admin`
+* **Password:** `admin123`
 
+## AI Usage
 
-AI Usage
-
-This project was developed with the assistance of ChatGPT for planning, coding, debugging, and implementing features such as search and admin management.
+This project was developed with the assistance of **ChatGPT** for planning, coding, debugging, and implementing features such as search and admin management.
